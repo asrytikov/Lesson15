@@ -1,14 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de1d1edf-ca5b-4b97-998e-159052c8317d" name="Changes" comment="" />
+    <list default="true" id="de1d1edf-ca5b-4b97-998e-159052c8317d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/CommonResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/CommonResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/CountThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/CountThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p2/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p2/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/CommonResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/CommonResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/CountThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/CountThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/CommonResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/CommonResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/CountThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/CountThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p5/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p7/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p7/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p7/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p8/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p8/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p8/Phone.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Vl04wAGZlNRRNKRNmRvjYdcN83" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -20,9 +52,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="p8" />
+      <recent name="p4" />
+      <recent name="p3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +71,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695395173463</updated>
+      <workItem from="1695395175664" duration="6855000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

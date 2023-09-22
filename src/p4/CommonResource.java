@@ -1,4 +1,4 @@
-package p3;
+package p4;
 
 public class CommonResource {
 

@@ -1,4 +1,4 @@
-package p7;
+package p8;
 
 public class Phone {
 
@@ -24,5 +24,13 @@ public class Phone {
 
     public void setPrice(int price) {
         this.price = price;
+    }
+
+    @Override
+    public String toString() {
+        return "Phone{" +
+                "name='" + name + '\'' +
+                ", price=" + price +
+                '}';
     }
 }
